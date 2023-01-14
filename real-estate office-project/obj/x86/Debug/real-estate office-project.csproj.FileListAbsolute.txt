@@ -1,0 +1,15 @@
+C:\Users\abd alrhmam knaan\Music\صور\real-estate office-project\real-estate office-project\bin\x86\Debug\real-estate office-project.exe.config
+C:\Users\abd alrhmam knaan\Music\صور\real-estate office-project\real-estate office-project\bin\x86\Debug\real-estate office-project.exe
+C:\Users\abd alrhmam knaan\Music\صور\real-estate office-project\real-estate office-project\bin\x86\Debug\real-estate office-project.pdb
+C:\Users\abd alrhmam knaan\Music\صور\real-estate office-project\real-estate office-project\obj\x86\Debug\real-estate office-project.csproj.AssemblyReference.cache
+C:\Users\abd alrhmam knaan\Music\صور\real-estate office-project\real-estate office-project\obj\x86\Debug\real_estate_office_project.Buildings_data.resources
+C:\Users\abd alrhmam knaan\Music\صور\real-estate office-project\real-estate office-project\obj\x86\Debug\real_estate_office_project.Form1.resources
+C:\Users\abd alrhmam knaan\Music\صور\real-estate office-project\real-estate office-project\obj\x86\Debug\real_estate_office_project.Main_frm.resources
+C:\Users\abd alrhmam knaan\Music\صور\real-estate office-project\real-estate office-project\obj\x86\Debug\real_estate_office_project.office_data.resources
+C:\Users\abd alrhmam knaan\Music\صور\real-estate office-project\real-estate office-project\obj\x86\Debug\real_estate_office_project.Properties.Resources.resources
+C:\Users\abd alrhmam knaan\Music\صور\real-estate office-project\real-estate office-project\obj\x86\Debug\real_estate_office_project.User_change.resources
+C:\Users\abd alrhmam knaan\Music\صور\real-estate office-project\real-estate office-project\obj\x86\Debug\real_estate_office_project.welcome_frm.resources
+C:\Users\abd alrhmam knaan\Music\صور\real-estate office-project\real-estate office-project\obj\x86\Debug\real-estate office-project.csproj.GenerateResource.cache
+C:\Users\abd alrhmam knaan\Music\صور\real-estate office-project\real-estate office-project\obj\x86\Debug\real-estate office-project.csproj.CoreCompileInputs.cache
+C:\Users\abd alrhmam knaan\Music\صور\real-estate office-project\real-estate office-project\obj\x86\Debug\real-estate office-project.exe
+C:\Users\abd alrhmam knaan\Music\صور\real-estate office-project\real-estate office-project\obj\x86\Debug\real-estate office-project.pdb
